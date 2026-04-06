@@ -17,7 +17,7 @@ deno --allow-import example_exchange.js
 
 ## library
 
-- [code4fukui/liboqs](https://github.com/code4fukui/liboqs) forked [liboqs](https://github.com/open-quantum-safe/liboqs)
+- [code4fukui/liboqs-js](https://github.com/code4fukui/liboqs-js) forked [liboqs-js](https://github.com/open-quantum-safe/liboqs-js)
 
 ## how to build liboqs-js on mac
 
