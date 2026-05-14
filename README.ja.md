@@ -20,7 +20,7 @@
 
 **実行:**
 ```sh
-deno run --allow-read https://code4fukui.github.io/e2ee-liboqs/example_sign.js
+deno run --allow-read https://github.com/code4fukui/e2ee-liboqs
 ```
 
 **出力:**
@@ -40,7 +40,7 @@ signature hex: ...
 
 **実行:**
 ```sh
-deno run --allow-read https://code4fukui.github.io/e2ee-liboqs/example_exchange.js
+deno run --allow-read https://github.com/code4fukui/e2ee-liboqs
 ```
 
 **出力:**

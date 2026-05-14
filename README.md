@@ -22,7 +22,7 @@ This example demonstrates creating a key pair, signing a message, and verifying 
 
 **Run:**
 ```sh
-deno run --allow-read https://code4fukui.github.io/e2ee-liboqs/example_sign.js
+deno run --allow-read https://github.com/code4fukui/e2ee-liboqs
 ```
 
 **Output:**
@@ -42,7 +42,7 @@ This example shows two parties (Alice and Bob) using Kyber768 to establish a sha
 
 **Run:**
 ```sh
-deno run --allow-read https://code4fukui.github.io/e2ee-liboqs/example_exchange.js
+deno run --allow-read https://github.com/code4fukui/e2ee-liboqs
 ```
 
 **Output:**
